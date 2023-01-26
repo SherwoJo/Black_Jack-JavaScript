@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Black_Jack JavaScript", "Black_Jack JavaScript\Black_Jack JavaScript.njsproj", "{ECFBA9F4-322E-4240-AE75-B091EBA07624}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECFBA9F4-322E-4240-AE75-B091EBA07624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECFBA9F4-322E-4240-AE75-B091EBA07624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECFBA9F4-322E-4240-AE75-B091EBA07624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECFBA9F4-322E-4240-AE75-B091EBA07624}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCC5C336-D768-4020-92CE-75F1AAD60790}
+	EndGlobalSection
+EndGlobal
