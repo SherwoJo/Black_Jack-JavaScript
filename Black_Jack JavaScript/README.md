@@ -1,6 +1,5 @@
 # Black_Jack JavaScript
 
-
 # Overview
 
 This program plays a simplified version of Black Jack. This program was written with the intent to practice learning the JavaScript programming language. 
